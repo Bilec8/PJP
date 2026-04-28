@@ -22,6 +22,15 @@ obj/
 Thumbs.db
 .DS_Store
 
+# ---- Reference / personal (not pushed) ----
+.claude/
+original_labs/
+PLC_Lab*_solution/
+PLC_Lab*_solution (*)/
+sampleInputs/
+PROJECT_BRIEF.md
+START_HERE.md
+
 # ---- Personal test files (volitelné — odkomentuj pokud chceš) ----
 # test.in
 # test*.txt
