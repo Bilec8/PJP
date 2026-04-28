@@ -1,0 +1,28 @@
+# ---- Build artifacts ----
+bin/
+obj/
+
+# ---- IDE ----
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+
+# ---- ANTLR generated (regenerated each build) ----
+*.tokens
+*.interp
+
+# ---- Test outputs ----
+*.exe
+*.dll
+*.pdb
+
+# ---- OS junk ----
+Thumbs.db
+.DS_Store
+
+# ---- Personal test files (volitelné — odkomentuj pokud chceš) ----
+# test.in
+# test*.txt
+# vystup.txt
